@@ -157,6 +157,7 @@ print(x)
 
 ### Append
 
+"""
 
 myList = [89, 99, 11]
 myList1 = [99, 11, 12]
@@ -164,3 +165,8 @@ myList1 = [99, 11, 12]
 for x in myList1:
     myList.append(x)
 print(myList)
+
+"""
+
+a = 2
+print(type(a))
