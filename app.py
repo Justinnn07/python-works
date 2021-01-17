@@ -75,6 +75,9 @@ x = 100
 y = 200
 z = 500
 
+
+#include<stdio.h>
+
 if x>y or z>y  :
     print("X is greater than y")
 elif x==y:
