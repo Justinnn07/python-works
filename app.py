@@ -157,6 +157,7 @@ print(x)
 
 ### Append
 
+"""
 
 myList = [89, 99, 11]
 myList1 = [99, 11, 12]
@@ -166,3 +167,8 @@ for x in myList1:
 print(myList)
 
 #hello world chod dia bhai tune 
+=======
+"""
+
+a = 2
+print(type(a))
