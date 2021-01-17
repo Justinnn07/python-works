@@ -164,3 +164,5 @@ myList1 = [99, 11, 12]
 for x in myList1:
     myList.append(x)
 print(myList)
+
+#hello world chod dia bhai tune 
